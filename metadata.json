@@ -1,0 +1,7 @@
+{
+  "name": "DineWise AI",
+  "description": "An intelligent restaurant discovery tool that uses Gemini's Google Maps grounding to find the perfect dining spots based on your specific location and cravings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
